@@ -8,11 +8,6 @@
     <img alt="GPLv3.0 License" src="https://img.shields.io/badge/License-GPLv3.0-blue" />
   </a>
   
-  <a href="https://github.com/Shank2358" target="_blank">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=gghl.visitor-badge&right_color=blue"
-  alt="Visitor" />
-</a> 
-
 <a href="mailto:zhanchao.h@outlook.com" target="_blank">
    <img alt="E-mail" src="https://img.shields.io/badge/To-Email-blue" />
 </a> 

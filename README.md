@@ -13,9 +13,9 @@
 </a> 
 
 ## This is the implementation of MuDet 👋👋👋
-[[IEEE TGRS]([https://ieeexplore.ieee.org/document/9709203](https://ieeexplore.ieee.org/document/10475352))]
+[[IEEE TGRS] ([https://ieeexplore.ieee.org/document/9709203](https://ieeexplore.ieee.org/document/10475352))]
 
-#### 上述代码基于我的另外一个仓库GGHL进行的改进，详细使用方法和说明可以参考那边仓库的readme
+#### 上述代码基于我的另外一个仓库GGHL进行的改进，详细使用方法和说明可以参考那边仓库
 
   ### Give a ⭐️ if this project helped you. If you use it, please consider citing:
   ```IEEE TGRS

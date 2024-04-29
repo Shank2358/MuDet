@@ -1,0 +1,12 @@
+[2024-04-29 21:30:09,661]-[eval_MuDet.py line:44]:***********Start Evaluation**************** 
+[2024-04-29 21:30:54,211]-[eval_MuDet.py line:44]:***********Start Evaluation**************** 
+[2024-04-29 21:33:52,302]-[eval_MuDet.py line:44]:***********Start Evaluation**************** 
+[2024-04-29 21:34:31,590]-[eval_MuDet.py line:44]:***********Start Evaluation**************** 
+[2024-04-29 21:34:54,037]-[eval_MuDet.py line:44]:***********Start Evaluation**************** 
+[2024-04-29 21:36:04,158]-[eval_MuDet.py line:44]:***********Start Evaluation**************** 
+[2024-04-29 21:36:35,230]-[eval_MuDet.py line:44]:***********Start Evaluation**************** 
+[2024-04-29 21:37:55,817]-[eval_MuDet.py line:44]:***********Start Evaluation**************** 
+[2024-04-29 21:38:42,618]-[eval_MuDet.py line:44]:***********Start Evaluation**************** 
+[2024-04-29 21:40:07,637]-[eval_MuDet.py line:44]:***********Start Evaluation**************** 
+[2024-04-29 21:40:48,417]-[eval_MuDet.py line:53]:mAP:0.4899811804264051 
+[2024-04-29 21:40:48,417]-[eval_MuDet.py line:54]:inference time: 224.87 ms 

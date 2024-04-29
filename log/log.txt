@@ -1,0 +1,183 @@
+[2024-04-29 17:07:56,603]-[train_GGHL.py line:156]: Training start!  Img size:800,  Batchsize:18,  Number of workers:8 
+[2024-04-29 17:07:56,603]-[train_GGHL.py line:158]: Train datasets number is : 1851 
+[2024-04-29 17:10:45,245]-[train_GGHL.py line:156]: Training start!  Img size:800,  Batchsize:18,  Number of workers:8 
+[2024-04-29 17:10:45,245]-[train_GGHL.py line:158]: Train datasets number is : 230 
+[2024-04-29 17:11:41,099]-[train_GGHL.py line:185]: Epoch:[  0/151] Batch:[  0/11] Img_size:[800] Loss:48.4762 Loss_fg:0.6771 | Loss_bg:24.7106 | Loss_pos:14.4224 | Loss_neg:0.0000 | Loss_iou:3.6972 | Loss_cls:3.6729 | Loss_s:0.7176 | Loss_r:0.3879 | Loss_l:3.8634 | LR:0 
+[2024-04-29 17:23:33,094]-[train_MuDet.py line:156]: Training start!  Img size:800,  Batchsize:18,  Number of workers:8 
+[2024-04-29 17:23:33,103]-[train_MuDet.py line:158]: Train datasets number is : 230 
+[2024-04-29 17:28:09,866]-[train_MuDet.py line:156]: Training start!  Img size:800,  Batchsize:18,  Number of workers:8 
+[2024-04-29 17:28:09,866]-[train_MuDet.py line:158]: Train datasets number is : 230 
+[2024-04-29 17:29:54,523]-[train_MuDet.py line:156]: Training start!  Img size:800,  Batchsize:18,  Number of workers:8 
+[2024-04-29 17:29:54,523]-[train_MuDet.py line:158]: Train datasets number is : 230 
+[2024-04-29 17:30:55,103]-[train_MuDet.py line:156]: Training start!  Img size:800,  Batchsize:18,  Number of workers:8 
+[2024-04-29 17:30:55,103]-[train_MuDet.py line:158]: Train datasets number is : 230 
+[2024-04-29 17:32:05,343]-[train_MuDet.py line:156]: Training start!  Img size:800,  Batchsize:18,  Number of workers:8 
+[2024-04-29 17:32:05,344]-[train_MuDet.py line:158]: Train datasets number is : 230 
+[2024-04-29 17:32:49,705]-[train_MuDet.py line:156]: Training start!  Img size:800,  Batchsize:18,  Number of workers:8 
+[2024-04-29 17:32:49,705]-[train_MuDet.py line:158]: Train datasets number is : 230 
+[2024-04-29 17:33:40,252]-[train_MuDet.py line:156]: Training start!  Img size:800,  Batchsize:18,  Number of workers:8 
+[2024-04-29 17:33:40,252]-[train_MuDet.py line:158]: Train datasets number is : 230 
+[2024-04-29 17:34:45,475]-[train_MuDet.py line:156]: Training start!  Img size:800,  Batchsize:18,  Number of workers:8 
+[2024-04-29 17:34:45,475]-[train_MuDet.py line:158]: Train datasets number is : 230 
+[2024-04-29 17:36:03,054]-[train_MuDet.py line:156]: Training start!  Img size:800,  Batchsize:18,  Number of workers:8 
+[2024-04-29 17:36:03,054]-[train_MuDet.py line:158]: Train datasets number is : 230 
+[2024-04-29 17:41:08,708]-[train_MuDet.py line:156]: Training start!  Img size:800,  Batchsize:18,  Number of workers:8 
+[2024-04-29 17:41:08,709]-[train_MuDet.py line:158]: Train datasets number is : 230 
+[2024-04-29 17:41:28,629]-[train_MuDet.py line:156]: Training start!  Img size:800,  Batchsize:18,  Number of workers:8 
+[2024-04-29 17:41:28,629]-[train_MuDet.py line:158]: Train datasets number is : 230 
+[2024-04-29 17:43:40,672]-[train_MuDet.py line:156]: Training start!  Img size:800,  Batchsize:18,  Number of workers:8 
+[2024-04-29 17:43:40,672]-[train_MuDet.py line:158]: Train datasets number is : 230 
+[2024-04-29 17:45:36,772]-[train_MuDet.py line:156]: Training start!  Img size:800,  Batchsize:18,  Number of workers:8 
+[2024-04-29 17:45:36,772]-[train_MuDet.py line:158]: Train datasets number is : 230 
+[2024-04-29 17:47:47,849]-[train_siames.py line:125]: Training start!  Img size:800,  Batchsize:18,  Number of workers:8 
+[2024-04-29 17:47:47,850]-[train_siames.py line:127]: Train datasets number is : 230 
+[2024-04-29 17:59:25,041]-[train_siames.py line:125]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 17:59:25,041]-[train_siames.py line:127]: Train datasets number is : 230 
+[2024-04-29 18:00:07,767]-[train_siames.py line:153]:Epoch:[  0/151] Batch:[  0/57] Img_size:[800] Loss:176.9445 Loss_fg:1.4559 | Loss_bg:99.4236 | Loss_pos:46.3507 | Loss_neg:0.0000 | Loss_iou:12.3317 | Loss_cls:12.0740 | Loss_s:2.1906 | Loss_r:1.0501 | Loss_l:14.1419 | LR:0 
+[2024-04-29 18:00:21,453]-[train_siames.py line:153]:Epoch:[  0/151] Batch:[ 50/57] Img_size:[864] Loss:169.4912 Loss_fg:7.1224 | Loss_bg:79.5990 | Loss_pos:50.9386 | Loss_neg:0.0000 | Loss_iou:13.6078 | Loss_cls:13.3722 | Loss_s:2.4139 | Loss_r:0.9584 | Loss_l:14.8512 | LR:3.44828e-05 
+[2024-04-29 18:00:28,685]-[train_siames.py line:204]:Save weights Done 
+[2024-04-29 18:00:28,685]-[train_siames.py line:205]:mAP: 0.000 
+[2024-04-29 18:00:28,685]-[train_siames.py line:207]:Inference time: 63.6445s 
+[2024-04-29 18:30:26,082]-[train_MuDet.py line:125]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 18:30:26,082]-[train_MuDet.py line:127]: Train datasets number is : 230 
+[2024-04-29 18:31:01,127]-[train_MuDet.py line:153]:Epoch:[  0/151] Batch:[  0/57] Img_size:[800] Loss:176.9445 Loss_fg:1.4559 | Loss_bg:99.4236 | Loss_pos:46.3507 | Loss_neg:0.0000 | Loss_iou:12.3317 | Loss_cls:12.0740 | Loss_s:2.1906 | Loss_r:1.0501 | Loss_l:14.1419 | LR:0 
+[2024-04-29 18:31:15,226]-[train_MuDet.py line:153]:Epoch:[  0/151] Batch:[ 50/57] Img_size:[864] Loss:169.4987 Loss_fg:7.1251 | Loss_bg:79.6006 | Loss_pos:50.9406 | Loss_neg:0.0000 | Loss_iou:13.6085 | Loss_cls:13.3718 | Loss_s:2.4145 | Loss_r:0.9584 | Loss_l:14.8510 | LR:3.44828e-05 
+[2024-04-29 18:31:22,617]-[train_MuDet.py line:204]:Save weights Done 
+[2024-04-29 18:31:22,617]-[train_MuDet.py line:205]:mAP: 0.000 
+[2024-04-29 18:31:22,617]-[train_MuDet.py line:207]:Inference time: 56.5352s 
+[2024-04-29 18:31:46,691]-[train_MuDet.py line:153]:Epoch:[  1/151] Batch:[  0/57] Img_size:[864] Loss:89.9530 Loss_fg:15.5787 | Loss_bg:3.7852 | Loss_pos:42.8999 | Loss_neg:0.0000 | Loss_iou:11.3459 | Loss_cls:11.5191 | Loss_s:2.0823 | Loss_r:1.5252 | Loss_l:12.7358 | LR:4e-05 
+[2024-04-29 18:32:02,662]-[train_MuDet.py line:153]:Epoch:[  1/151] Batch:[ 50/57] Img_size:[800] Loss:89.4487 Loss_fg:14.5302 | Loss_bg:5.0292 | Loss_pos:43.7031 | Loss_neg:0.0000 | Loss_iou:11.4865 | Loss_cls:12.4403 | Loss_s:1.9512 | Loss_r:0.8775 | Loss_l:11.8710 | LR:7.44828e-05 
+[2024-04-29 20:35:34,564]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 20:35:34,564]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 20:37:49,404]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 20:37:49,404]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 20:39:47,631]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 20:39:47,631]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 20:41:07,418]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 20:41:07,418]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 20:42:27,352]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 20:42:27,352]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 20:48:38,551]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 20:48:38,551]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 20:49:41,103]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 20:49:41,103]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 20:50:51,081]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 20:50:51,082]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 20:52:34,868]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 20:52:34,868]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 20:59:45,518]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 20:59:45,518]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 21:01:04,901]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 21:01:04,901]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 21:01:45,005]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 21:01:45,005]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 21:02:22,098]-[train_MuDet.py line:128]:Epoch:[  0/151] Batch:[  0/57] Img_size:[800] Loss:598.1490 Loss_fg:2.0051 | Loss_bg:508.8931 | Loss_pos:53.8828 | Loss_neg:0.0000 | Loss_iou:14.8674 | Loss_cls:13.9904 | Loss_s:2.5550 | Loss_r:1.0256 | Loss_l:14.9200 | LR:0 
+[2024-04-29 21:03:28,869]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 21:03:28,869]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 21:03:59,445]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 21:03:59,445]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 21:04:29,950]-[train_MuDet.py line:128]:Epoch:[  0/151] Batch:[  0/57] Img_size:[800] Loss:213.0099 Loss_fg:1.8651 | Loss_bg:125.4938 | Loss_pos:50.5599 | Loss_neg:0.0000 | Loss_iou:14.5690 | Loss_cls:12.8352 | Loss_s:2.0577 | Loss_r:0.4308 | Loss_l:18.0336 | LR:0 
+[2024-04-29 21:08:02,922]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 21:08:02,923]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 21:09:28,786]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 21:09:28,787]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 21:10:59,950]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 21:10:59,951]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 21:11:34,685]-[train_MuDet.py line:128]:Epoch:[  0/151] Batch:[  0/57] Img_size:[800] Loss:213.0099 Loss_fg:1.8651 | Loss_bg:125.4938 | Loss_pos:50.5599 | Loss_neg:0.0000 | Loss_iou:14.5690 | Loss_cls:12.8352 | Loss_s:2.0577 | Loss_r:0.4308 | Loss_l:18.0336 | LR:0 
+[2024-04-29 21:12:29,688]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 21:12:29,688]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 21:13:47,925]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 21:13:47,925]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 21:14:22,710]-[train_MuDet.py line:128]:Epoch:[  0/151] Batch:[  0/57] Img_size:[800] Loss:216.4307 Loss_fg:2.0116 | Loss_bg:128.6215 | Loss_pos:50.3928 | Loss_neg:0.0000 | Loss_iou:14.6797 | Loss_cls:12.7066 | Loss_s:2.0334 | Loss_r:0.5969 | Loss_l:18.0947 | LR:0 
+[2024-04-29 21:14:36,476]-[train_MuDet.py line:128]:Epoch:[  0/151] Batch:[ 50/57] Img_size:[864] Loss:167.8873 Loss_fg:13.0606 | Loss_bg:75.6955 | Loss_pos:48.1135 | Loss_neg:0.0000 | Loss_iou:13.5074 | Loss_cls:12.4347 | Loss_s:2.1499 | Loss_r:0.9183 | Loss_l:14.4421 | LR:3.44828e-05 
+[2024-04-29 21:14:43,477]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:14:43,477]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:14:43,477]-[train_MuDet.py line:182]:Inference time: 55.5511s 
+[2024-04-29 21:15:03,564]-[train_MuDet.py line:128]:Epoch:[  1/151] Batch:[  0/57] Img_size:[864] Loss:79.6701 Loss_fg:16.3341 | Loss_bg:6.0234 | Loss_pos:34.3171 | Loss_neg:0.0000 | Loss_iou:9.7954 | Loss_cls:9.4651 | Loss_s:1.4736 | Loss_r:0.9985 | Loss_l:10.7281 | LR:4e-05 
+[2024-04-29 21:15:20,061]-[train_MuDet.py line:128]:Epoch:[  1/151] Batch:[ 50/57] Img_size:[800] Loss:71.3114 Loss_fg:12.7024 | Loss_bg:4.8269 | Loss_pos:32.6522 | Loss_neg:0.0000 | Loss_iou:9.9867 | Loss_cls:8.6846 | Loss_s:1.5836 | Loss_r:0.9340 | Loss_l:8.6255 | LR:7.44828e-05 
+[2024-04-29 21:15:27,835]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:15:27,835]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:15:27,835]-[train_MuDet.py line:182]:Inference time: 44.3588s 
+[2024-04-29 21:15:40,353]-[train_MuDet.py line:128]:Epoch:[  2/151] Batch:[  0/57] Img_size:[800] Loss:56.2101 Loss_fg:10.7846 | Loss_bg:2.9574 | Loss_pos:24.2109 | Loss_neg:0.0000 | Loss_iou:9.0526 | Loss_cls:5.0049 | Loss_s:1.6436 | Loss_r:0.9529 | Loss_l:6.6081 | LR:8e-05 
+[2024-04-29 21:15:55,145]-[train_MuDet.py line:128]:Epoch:[  2/151] Batch:[ 50/57] Img_size:[800] Loss:52.7790 Loss_fg:10.3299 | Loss_bg:4.2002 | Loss_pos:21.2402 | Loss_neg:0.0000 | Loss_iou:8.9508 | Loss_cls:3.4899 | Loss_s:1.3484 | Loss_r:1.0265 | Loss_l:5.6830 | LR:0.000114483 
+[2024-04-29 21:15:58,254]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:15:58,254]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:15:58,254]-[train_MuDet.py line:182]:Inference time: 30.4184s 
+[2024-04-29 21:16:10,526]-[train_MuDet.py line:128]:Epoch:[  3/151] Batch:[  0/57] Img_size:[800] Loss:45.7439 Loss_fg:7.8143 | Loss_bg:4.2163 | Loss_pos:18.4588 | Loss_neg:0.0000 | Loss_iou:8.5975 | Loss_cls:2.2466 | Loss_s:1.3442 | Loss_r:0.8804 | Loss_l:4.4325 | LR:0.00012 
+[2024-04-29 21:16:24,486]-[train_MuDet.py line:128]:Epoch:[  3/151] Batch:[ 50/57] Img_size:[864] Loss:42.7641 Loss_fg:8.3790 | Loss_bg:4.3791 | Loss_pos:15.6770 | Loss_neg:0.0000 | Loss_iou:8.0447 | Loss_cls:1.3864 | Loss_s:0.9109 | Loss_r:1.0489 | Loss_l:4.3246 | LR:0.000154483 
+[2024-04-29 21:16:27,889]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:16:27,889]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:16:27,889]-[train_MuDet.py line:182]:Inference time: 29.6351s 
+[2024-04-29 21:16:41,137]-[train_MuDet.py line:128]:Epoch:[  4/151] Batch:[  0/57] Img_size:[864] Loss:37.2712 Loss_fg:7.9465 | Loss_bg:2.7306 | Loss_pos:14.1975 | Loss_neg:0.0000 | Loss_iou:7.5625 | Loss_cls:1.1803 | Loss_s:0.6028 | Loss_r:0.6538 | Loss_l:3.5776 | LR:0.00016 
+[2024-04-29 21:16:57,384]-[train_MuDet.py line:128]:Epoch:[  4/151] Batch:[ 50/57] Img_size:[736] Loss:40.7603 Loss_fg:9.3104 | Loss_bg:4.9100 | Loss_pos:13.5711 | Loss_neg:0.0000 | Loss_iou:7.4403 | Loss_cls:0.7997 | Loss_s:0.7753 | Loss_r:0.9572 | Loss_l:3.7959 | LR:0.000194483 
+[2024-04-29 21:17:00,756]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:17:00,756]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:17:00,756]-[train_MuDet.py line:182]:Inference time: 32.8668s 
+[2024-04-29 21:17:17,671]-[train_MuDet.py line:128]:Epoch:[  5/151] Batch:[  0/57] Img_size:[736] Loss:37.3762 Loss_fg:8.0734 | Loss_bg:3.2579 | Loss_pos:12.8501 | Loss_neg:0.0000 | Loss_iou:7.6554 | Loss_cls:0.5157 | Loss_s:0.4685 | Loss_r:0.5371 | Loss_l:4.5339 | LR:0.0002 
+[2024-04-29 21:17:30,646]-[train_MuDet.py line:128]:Epoch:[  5/151] Batch:[ 50/57] Img_size:[800] Loss:33.6526 Loss_fg:6.7149 | Loss_bg:3.9116 | Loss_pos:11.8791 | Loss_neg:0.0000 | Loss_iou:6.7717 | Loss_cls:0.4965 | Loss_s:0.6563 | Loss_r:0.8379 | Loss_l:2.8811 | LR:0.000199983 
+[2024-04-29 21:17:38,303]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:17:38,303]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:17:38,303]-[train_MuDet.py line:182]:Inference time: 37.5475s 
+[2024-04-29 21:17:52,092]-[train_MuDet.py line:128]:Epoch:[  6/151] Batch:[  0/57] Img_size:[800] Loss:43.0462 Loss_fg:7.6888 | Loss_bg:9.6973 | Loss_pos:12.9881 | Loss_neg:0.0000 | Loss_iou:7.6618 | Loss_cls:0.3776 | Loss_s:0.6265 | Loss_r:0.6037 | Loss_l:3.7800 | LR:0.000199977 
+[2024-04-29 21:18:07,777]-[train_MuDet.py line:128]:Epoch:[  6/151] Batch:[ 50/57] Img_size:[864] Loss:32.9300 Loss_fg:7.1641 | Loss_bg:4.0709 | Loss_pos:11.1589 | Loss_neg:0.0000 | Loss_iou:6.4580 | Loss_cls:0.3530 | Loss_s:0.6492 | Loss_r:0.7612 | Loss_l:2.6678 | LR:0.00019992 
+[2024-04-29 21:18:11,290]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:18:11,290]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:18:11,290]-[train_MuDet.py line:182]:Inference time: 32.9865s 
+[2024-04-29 21:18:29,449]-[train_MuDet.py line:128]:Epoch:[  7/151] Batch:[  0/57] Img_size:[864] Loss:30.2458 Loss_fg:6.2852 | Loss_bg:3.6565 | Loss_pos:10.7702 | Loss_neg:0.0000 | Loss_iou:6.4869 | Loss_cls:0.3184 | Loss_s:0.4905 | Loss_r:0.5163 | Loss_l:2.0402 | LR:0.000199908 
+[2024-04-29 21:18:47,274]-[train_MuDet.py line:128]:Epoch:[  7/151] Batch:[ 50/57] Img_size:[736] Loss:32.0418 Loss_fg:7.6382 | Loss_bg:4.3009 | Loss_pos:10.3339 | Loss_neg:0.0000 | Loss_iou:6.0415 | Loss_cls:0.2620 | Loss_s:0.6152 | Loss_r:0.6414 | Loss_l:2.4706 | LR:0.000199811 
+[2024-04-29 21:18:50,651]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:18:50,651]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:18:50,651]-[train_MuDet.py line:182]:Inference time: 39.3613s 
+[2024-04-29 21:19:03,666]-[train_MuDet.py line:128]:Epoch:[  8/151] Batch:[  0/57] Img_size:[736] Loss:38.4725 Loss_fg:7.5069 | Loss_bg:5.3953 | Loss_pos:12.5135 | Loss_neg:0.0000 | Loss_iou:7.7491 | Loss_cls:0.2271 | Loss_s:0.4186 | Loss_r:0.6229 | Loss_l:4.2661 | LR:0.000199793 
+[2024-04-29 21:19:17,104]-[train_MuDet.py line:128]:Epoch:[  8/151] Batch:[ 50/57] Img_size:[736] Loss:28.1146 Loss_fg:5.9073 | Loss_bg:3.4638 | Loss_pos:9.7784 | Loss_neg:0.0000 | Loss_iou:5.7974 | Loss_cls:0.2239 | Loss_s:0.5326 | Loss_r:0.5428 | Loss_l:2.0924 | LR:0.000199657 
+[2024-04-29 21:19:20,234]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:19:20,234]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:19:20,234]-[train_MuDet.py line:182]:Inference time: 29.5834s 
+[2024-04-29 21:19:33,882]-[train_MuDet.py line:128]:Epoch:[  9/151] Batch:[  0/57] Img_size:[736] Loss:26.3193 Loss_fg:5.7744 | Loss_bg:2.2368 | Loss_pos:9.4862 | Loss_neg:0.0000 | Loss_iou:5.6722 | Loss_cls:0.2034 | Loss_s:0.4914 | Loss_r:0.4924 | Loss_l:2.1659 | LR:0.000199632 
+[2024-04-29 21:19:47,124]-[train_MuDet.py line:128]:Epoch:[  9/151] Batch:[ 50/57] Img_size:[800] Loss:26.1721 Loss_fg:5.3036 | Loss_bg:3.2664 | Loss_pos:9.2262 | Loss_neg:0.0000 | Loss_iou:5.5251 | Loss_cls:0.1667 | Loss_s:0.4978 | Loss_r:0.4738 | Loss_l:1.8793 | LR:0.000199456 
+[2024-04-29 21:19:50,091]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:19:50,091]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:19:50,091]-[train_MuDet.py line:182]:Inference time: 29.8565s 
+[2024-04-29 21:20:03,052]-[train_MuDet.py line:128]:Epoch:[ 10/151] Batch:[  0/57] Img_size:[800] Loss:37.3869 Loss_fg:15.4372 | Loss_bg:2.0370 | Loss_pos:10.4859 | Loss_neg:0.0000 | Loss_iou:6.4947 | Loss_cls:0.2297 | Loss_s:0.3745 | Loss_r:0.4853 | Loss_l:2.0722 | LR:0.000199425 
+[2024-04-29 21:20:17,842]-[train_MuDet.py line:128]:Epoch:[ 10/151] Batch:[ 50/57] Img_size:[768] Loss:27.9967 Loss_fg:7.1476 | Loss_bg:3.5711 | Loss_pos:9.0680 | Loss_neg:0.0000 | Loss_iou:5.4123 | Loss_cls:0.1599 | Loss_s:0.5105 | Loss_r:0.4440 | Loss_l:1.8433 | LR:0.000199209 
+[2024-04-29 21:20:21,410]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:20:21,410]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:20:21,410]-[train_MuDet.py line:182]:Inference time: 31.3196s 
+[2024-04-29 21:20:41,914]-[train_MuDet.py line:128]:Epoch:[ 11/151] Batch:[  0/57] Img_size:[768] Loss:24.5583 Loss_fg:5.2979 | Loss_bg:2.3585 | Loss_pos:8.9691 | Loss_neg:0.0000 | Loss_iou:5.5787 | Loss_cls:0.1219 | Loss_s:0.3228 | Loss_r:0.2936 | Loss_l:1.7376 | LR:0.000199172 
+[2024-04-29 21:20:54,837]-[train_MuDet.py line:128]:Epoch:[ 11/151] Batch:[ 50/57] Img_size:[736] Loss:25.0922 Loss_fg:5.3991 | Loss_bg:3.4105 | Loss_pos:8.5886 | Loss_neg:0.0000 | Loss_iou:5.1643 | Loss_cls:0.1270 | Loss_s:0.4716 | Loss_r:0.4120 | Loss_l:1.6462 | LR:0.000198917 
+[2024-04-29 21:21:01,711]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:21:01,712]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:21:01,712]-[train_MuDet.py line:182]:Inference time: 40.3011s 
+[2024-04-29 21:21:14,008]-[train_MuDet.py line:128]:Epoch:[ 12/151] Batch:[  0/57] Img_size:[736] Loss:25.9178 Loss_fg:8.4799 | Loss_bg:1.2614 | Loss_pos:8.6419 | Loss_neg:0.0000 | Loss_iou:5.3222 | Loss_cls:0.1579 | Loss_s:0.3095 | Loss_r:0.2824 | Loss_l:1.6204 | LR:0.000198873 
+[2024-04-29 21:21:26,340]-[train_MuDet.py line:128]:Epoch:[ 12/151] Batch:[ 50/57] Img_size:[800] Loss:23.7740 Loss_fg:5.2015 | Loss_bg:3.1052 | Loss_pos:8.2024 | Loss_neg:0.0000 | Loss_iou:4.9635 | Loss_cls:0.1111 | Loss_s:0.4296 | Loss_r:0.3734 | Loss_l:1.4985 | LR:0.00019858 
+[2024-04-29 21:21:29,171]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:21:29,172]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:21:29,172]-[train_MuDet.py line:182]:Inference time: 27.4603s 
+[2024-04-29 21:21:41,425]-[train_MuDet.py line:128]:Epoch:[ 13/151] Batch:[  0/57] Img_size:[800] Loss:27.3954 Loss_fg:5.6919 | Loss_bg:3.2944 | Loss_pos:9.5353 | Loss_neg:0.0000 | Loss_iou:5.4919 | Loss_cls:0.0955 | Loss_s:0.7892 | Loss_r:0.5624 | Loss_l:2.0302 | LR:0.000198529 
+[2024-04-29 21:21:55,419]-[train_MuDet.py line:128]:Epoch:[ 13/151] Batch:[ 50/57] Img_size:[800] Loss:24.9725 Loss_fg:5.7852 | Loss_bg:3.4492 | Loss_pos:8.3088 | Loss_neg:0.0000 | Loss_iou:5.0030 | Loss_cls:0.1023 | Loss_s:0.4689 | Loss_r:0.3936 | Loss_l:1.5638 | LR:0.000198196 
+[2024-04-29 21:21:58,568]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:21:58,568]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:21:58,568]-[train_MuDet.py line:182]:Inference time: 29.3963s 
+[2024-04-29 21:22:11,264]-[train_MuDet.py line:128]:Epoch:[ 14/151] Batch:[  0/57] Img_size:[800] Loss:26.4188 Loss_fg:6.6903 | Loss_bg:3.8304 | Loss_pos:8.3365 | Loss_neg:0.0000 | Loss_iou:5.2146 | Loss_cls:0.1144 | Loss_s:0.2746 | Loss_r:0.2662 | Loss_l:1.8063 | LR:0.00019814 
+[2024-04-29 21:22:25,727]-[train_MuDet.py line:128]:Epoch:[ 14/151] Batch:[ 50/57] Img_size:[864] Loss:23.2529 Loss_fg:5.2415 | Loss_bg:3.2155 | Loss_pos:7.8448 | Loss_neg:0.0000 | Loss_iou:4.7425 | Loss_cls:0.0858 | Loss_s:0.4372 | Loss_r:0.3580 | Loss_l:1.4133 | LR:0.000197768 
+[2024-04-29 21:22:28,767]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:22:28,767]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:22:28,767]-[train_MuDet.py line:182]:Inference time: 30.1990s 
+[2024-04-29 21:22:41,086]-[train_MuDet.py line:128]:Epoch:[ 15/151] Batch:[  0/57] Img_size:[864] Loss:24.6331 Loss_fg:6.0889 | Loss_bg:1.9858 | Loss_pos:8.6704 | Loss_neg:0.0000 | Loss_iou:5.2208 | Loss_cls:0.0779 | Loss_s:0.5396 | Loss_r:0.4543 | Loss_l:1.6734 | LR:0.000197705 
+[2024-04-29 21:22:56,940]-[train_MuDet.py line:128]:Epoch:[ 15/151] Batch:[ 50/57] Img_size:[832] Loss:24.8998 Loss_fg:6.2955 | Loss_bg:3.6732 | Loss_pos:7.8540 | Loss_neg:0.0000 | Loss_iou:4.7452 | Loss_cls:0.0832 | Loss_s:0.4417 | Loss_r:0.3851 | Loss_l:1.5051 | LR:0.000197295 
+[2024-04-29 21:23:00,832]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:23:00,832]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:23:00,832]-[train_MuDet.py line:182]:Inference time: 32.0650s 
+[2024-04-29 21:23:19,226]-[train_MuDet.py line:128]:Epoch:[ 16/151] Batch:[  0/57] Img_size:[832] Loss:23.9220 Loss_fg:6.1429 | Loss_bg:3.2409 | Loss_pos:7.7574 | Loss_neg:0.0000 | Loss_iou:4.7036 | Loss_cls:0.0851 | Loss_s:0.4170 | Loss_r:0.2881 | Loss_l:1.3721 | LR:0.000197226 
+[2024-04-29 21:23:33,869]-[train_MuDet.py line:128]:Epoch:[ 16/151] Batch:[ 50/57] Img_size:[768] Loss:22.7860 Loss_fg:5.3371 | Loss_bg:3.1449 | Loss_pos:7.5893 | Loss_neg:0.0000 | Loss_iou:4.5712 | Loss_cls:0.0779 | Loss_s:0.4387 | Loss_r:0.3451 | Loss_l:1.3596 | LR:0.000196776 
+[2024-04-29 21:23:41,085]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:23:41,085]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:23:41,085]-[train_MuDet.py line:182]:Inference time: 40.2524s 
+[2024-04-29 21:23:52,981]-[train_MuDet.py line:128]:Epoch:[ 17/151] Batch:[  0/57] Img_size:[768] Loss:23.4569 Loss_fg:6.3188 | Loss_bg:2.3944 | Loss_pos:7.7189 | Loss_neg:0.0000 | Loss_iou:4.7715 | Loss_cls:0.0867 | Loss_s:0.3291 | Loss_r:0.3499 | Loss_l:1.5743 | LR:0.000196701 
+[2024-04-29 21:42:15,708]-[train_MuDet.py line:100]: Training start!  Img size:800,  Batchsize:4,  Number of workers:8 
+[2024-04-29 21:42:15,708]-[train_MuDet.py line:102]: Train datasets number is : 230 
+[2024-04-29 21:42:48,324]-[train_MuDet.py line:128]:Epoch:[  0/101] Batch:[  0/57] Img_size:[800] Loss:216.4307 Loss_fg:2.0116 | Loss_bg:128.6215 | Loss_pos:50.3928 | Loss_neg:0.0000 | Loss_iou:14.6797 | Loss_cls:12.7066 | Loss_s:2.0334 | Loss_r:0.5969 | Loss_l:18.0947 | LR:0 
+[2024-04-29 21:43:02,149]-[train_MuDet.py line:128]:Epoch:[  0/101] Batch:[ 50/57] Img_size:[864] Loss:167.8750 Loss_fg:13.0803 | Loss_bg:75.6950 | Loss_pos:48.0905 | Loss_neg:0.0000 | Loss_iou:13.5012 | Loss_cls:12.4273 | Loss_s:2.1498 | Loss_r:0.9234 | Loss_l:14.4347 | LR:3.44828e-05 
+[2024-04-29 21:43:09,161]-[train_MuDet.py line:179]:Save weights Done 
+[2024-04-29 21:43:09,161]-[train_MuDet.py line:180]:mAP: 0.000 
+[2024-04-29 21:43:09,161]-[train_MuDet.py line:182]:Inference time: 53.4534s 

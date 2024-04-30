@@ -9,7 +9,7 @@ from utils.log import Logger
 import dataloadR.datasets_siames as data
 from modelR.MuDet import MuDet
 from modelR.loss.loss import Loss
-from evalR.evaluatorGGHL import *
+from evalR.evaluator_mudet import *
 from torch.cuda import amp
 import torch.backends.cudnn as cudnn
 from copy import deepcopy

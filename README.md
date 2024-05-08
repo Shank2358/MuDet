@@ -1,5 +1,4 @@
 # MuDet: Multimodal Collaboration Networks for Geospatial Vehicle Detection in Dense, Occluded, and Large-Scale Events
-
   <a href="https://github.com/Shank2358/GGHL/">
     <img alt="Version" src="https://img.shields.io/badge/Version-1.3.0-blue" />
   </a>
